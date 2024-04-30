@@ -1,0 +1,38 @@
+{
+  "name": "namaste_rjs",
+  "version": "1.0.0",
+  "description": "Welcome to Namste React",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anilkumar2605/Namaste-React.git"
+  },
+  "author": "Anil Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anilkumar2605/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Anilkumar2605/Namaste-React#readme",
+  "devDependencies": {
+    "@babel/core": "^7.24.3",
+    "@babel/preset-env": "^7.24.3",
+    "@testing-library/react": "^14.2.2",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.38",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.22.3"
+  }
+}
